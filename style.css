@@ -1,0 +1,105 @@
+HEADER {
+    background-color: red;
+    padding: 20px;
+    border-radius: 12px;
+    border: 1px solid;
+    box-shadow: 0 4px 12px rgba (0,0,0,0.2);
+}
+
+
+nav {
+    text-align: end;
+    transform: translateY(-80px);
+}
+
+.inicios {
+    color: #fff;
+    font-weight: bold;
+}
+
+a:hover {
+    color:blue;
+}
+
+img {
+    width: 200px;
+    transform: translateX(-16px);
+    box-shadow: 0px 4px 13px;
+}
+
+section {
+   background-color: #d62839;
+   padding: 2px;
+}
+
+h1 {
+    color:#fff;
+    font-style: italic;
+}
+
+h2 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #fff;
+    text-align: end;
+   transform: translateY(-40px);
+}
+
+img {
+    box-shadow: 0px 4px 10px rgba(0,0,0,1.0);
+    
+}
+
+.firestone {
+    text-align: end;
+}
+
+.texto {
+    color:#fff;
+    
+}
+
+h3 {
+    text-align: center;
+    font-style: italic;
+}
+
+.seccion2 {
+    background: #fff;
+}
+
+.texto2 {
+    font-size: 20px;
+}
+
+.sucursales1 {
+    text-align: center;
+    transform: translateY(-20px);
+}
+
+.ubiicacion {
+    color:black;
+}
+
+.ubicacion {
+    padding: 20px;
+    text-align: center;
+    background-color:darkgrey;
+    box-shadow: 0px 4px 10px rgba(0,0,0,1.0);
+}
+
+.ubicaciones {
+    color:black;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: none;
+}
+
+.CONTACTANOS {
+    color: purple;
+    font-weight: bold;
+}
+
+.enlacesfinales {
+    text-align: left;
+    padding:20p
+}
